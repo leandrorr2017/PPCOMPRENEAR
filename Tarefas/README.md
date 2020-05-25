@@ -1,1 +1,8 @@
-### Tarefas da Disciplina no AVA
+### Tarefas da Disciplina (AVA)
+
+As seguintes atividades já estão disponibilizadas para consulta:
+
+1. **Implementação do Perceptron**
+    * Implementação de um BaseEstimator
+    * Validação com dataset Breast Cancer
+    * Comparativo com outros classificadores
