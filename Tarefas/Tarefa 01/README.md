@@ -6,7 +6,7 @@ Testar com uma base de dados binária do módulo datasets do scikit-learn. Ex.: 
 
 **Documentos disponibilizados**
 
-*Jupyther Notebook com o desenvolvimento em Python
+  * Jupyther Notebook com o desenvolvimento em Python
 
-*Impressão PDF dos resultados
+  * Impressão PDF dos resultados
 
