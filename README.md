@@ -3,13 +3,14 @@ Redes Neurais Artificiais
 
 Disciplina do Mestrado em Computação Aplicada - IFES (PPCOMP)
 
-### Repositório para organização dos exercícios e conteúdo da disciplina
-Os seguintes exercícios já estão disponibilizados para consulta:
+### Repositório para organização do conteúdo da disciplina
+Os repositório está organizado da seguinte forma, contendo as atividades disponibilizadas para consulta:
 
-1. **Implementação do Perceptron**
-    * Implementação de um BaseEstimator
-    * Validação com dataset Breast Cancer
-    * Comparativo com outros classificadores
+1. **Folder [Tarefas]
+    * Atividades disponibilizadas no sistema acadêmico (AVA)
+1. **Folder [Trabalhos]
+    * Eventuais trabalhos práticos a serem desenvolvidos na disciplina
+
 
 ### Bibliografia e Links de Referência
 
