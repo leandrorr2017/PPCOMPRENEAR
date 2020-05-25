@@ -5,3 +5,7 @@ Testar com uma base de dados binária do módulo datasets do scikit-learn. Ex.: 
 A entrega do trabalho será um link para sua implementação na conta do estudante no Github.
 Dúvidas sobre a atividade serão tiradas no fórum deste tópico.
 
+**Documentos disponibilizados**
+Jupyther Notebook com o desenvolvimento em Python
+Impressão PDF dos resultados
+
