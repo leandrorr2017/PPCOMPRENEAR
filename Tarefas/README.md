@@ -7,4 +7,4 @@ As seguintes atividades já estão disponibilizadas para consulta:
     * Validação com dataset Breast Cancer
     * Comparativo com outros classificadore
 
-2. **[Tarefa 02] Comparação de Redes Neurais Rasas
+2. **[Tarefa 02] Comparação de Redes Neurais Rasas**
