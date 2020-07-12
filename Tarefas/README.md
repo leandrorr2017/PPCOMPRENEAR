@@ -8,3 +8,5 @@ As seguintes atividades já estão disponibilizadas para consulta:
     * Comparativo com outros classificadore
 
 2. **[Tarefa 02] Comparação de Redes Neurais Rasas**
+
+3. **[Tarefa 03] Descida de Gradiente e Taxa de Aprendizado**
