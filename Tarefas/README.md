@@ -10,3 +10,5 @@ As seguintes atividades já estão disponibilizadas para consulta:
 2. **[Tarefa 02] Comparação de Redes Neurais Rasas**
 
 3. **[Tarefa 03] Descida de Gradiente e Taxa de Aprendizado**
+
+3. **[Tarefa 04] Implementação de uma ELMT**
