@@ -11,4 +11,4 @@ As seguintes atividades já estão disponibilizadas para consulta:
 
 3. **[Tarefa 03] Descida de Gradiente e Taxa de Aprendizado**
 
-3. **[Tarefa 04] Implementação de uma ELMT**
+3. **[Tarefa 04] Implementação de uma ELM**
