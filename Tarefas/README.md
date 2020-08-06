@@ -15,4 +15,4 @@ As seguintes atividades já estão disponibilizadas para consulta:
 
 5. **[Tarefa 05] Arquitetura capaz de resolver um problema XOR (forward)**
 
-6. **[Tarefa 06] Arquitetura capaz de resolver um problema XOR (backward)*
+6. **[Tarefa 06] Arquitetura capaz de resolver um problema XOR (backward)**
