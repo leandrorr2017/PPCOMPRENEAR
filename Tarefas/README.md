@@ -11,4 +11,8 @@ As seguintes atividades já estão disponibilizadas para consulta:
 
 3. **[Tarefa 03] Descida de Gradiente e Taxa de Aprendizado**
 
-3. **[Tarefa 04] Implementação de uma ELM**
+4. **[Tarefa 04] Implementação de uma ELM**
+
+5. **[Tarefa 05] Arquitetura capaz de resolver um problema XOR (forward)**
+
+6. **[Tarefa 06] Arquitetura capaz de resolver um problema XOR (backward)*
